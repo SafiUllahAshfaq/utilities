@@ -1,0 +1,7 @@
+Finding lat lng for boundaries of a place
+
+1. Boundary of Islamabad: https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=358002&class=boundary
+
+2. Boundary (polygon) coordinates of Islamabad: http://polygons.openstreetmap.fr/get_geojson.py?id=358002&params=0
+
+3. Check if a point lies withing a google maps polygon or not: https://gis.stackexchange.com/questions/42879/check-if-lat-long-point-is-within-a-set-of-polygons-using-google-maps
